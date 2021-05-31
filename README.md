@@ -22,14 +22,14 @@ Deploy the .mobileconfig files in `/MobileConfigs` by doing the following:
 ![Step 2 - Profile Options](img/cfg_profile_2.png?raw=true)
 5. Enter the basic details for the profile. Click `Next`\
 ![Step 3 - Profile Basics](img/cfg_profile_3.png?raw=true)
-6. Upload [MobileConfigs/Falcon Profile.mobileconfig](MobileConfigs/Falcon Profile.mobileconfig)\
+6. Upload [MobileConfigs/Falcon Profile.mobileconfig](MobileConfigs/Falcon%20Profile.mobileconfig)\
 ![Step 4 - Profile Configuration Settings](img/cfg_profile_4.png?raw=true)
 7. Choose the users and/or devices to deploy to\
 ![Step 5 - Profile Assignments](img/cfg_profile_5.png?raw=true)
 8. Review the settings for your profile, and click `Create`\
 ![Step 6 - Profile Review](img/cfg_profile_6.png?raw=true)
 
-9. Repeat steps 3-8 for [MobileConfigs/Falcon Profile - kexts.mobileconfig](MobileConfigs/Falcon Profile - kexts.mobileconfig)
+9. Repeat steps 3-8 for [MobileConfigs/Falcon Profile - kexts.mobileconfig](MobileConfigs/Falcon%20Profile%20-%20kexts.mobileconfig)
 
 ## Part 2 - Deployment Script
 Now the actual deployment of Crowdstrike - This should work on M1 and Intel with no additional dependencies.
