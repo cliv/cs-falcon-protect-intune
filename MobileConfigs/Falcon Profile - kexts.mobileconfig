@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>AllowedTeamIdentifiers</key>
+			<array>
+				<string>X9E956P446</string>
+			</array>
+			<key>PayloadDescription</key>
+			<string>Configures Kernel Extension Policy settings</string>
+			<key>PayloadDisplayName</key>
+			<string>Kernel Extensions</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.syspolicy.kernel-extension-policy.5671B4FB-3B3A-4D93-B12A-E8487BD9B5EE</string>
+			<key>PayloadOrganization</key>
+			<string>CrowdStrike Inc.</string>
+			<key>PayloadType</key>
+			<string>com.apple.syspolicy.kernel-extension-policy</string>
+			<key>PayloadUUID</key>
+			<string>5671B4FB-3B3A-4D93-B12A-E8487BD9B5EE</string>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Kernel Extensions (Not Applicable to M1 Macs)</string>
+	<key>PayloadDisplayName</key>
+	<string>Falcon Profile - Kexts</string>
+	<key>PayloadEnabled</key>
+	<true/>
+	<key>PayloadIdentifier</key>
+	<string>34036D4F-49FF-463E-8EF0-3940BABDD1D0</string>
+	<key>PayloadOrganization</key>
+	<string>CrowdStrike Inc.</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>9EF3106B-E2F1-42DC-9535-7F3C01CCCD3B</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
